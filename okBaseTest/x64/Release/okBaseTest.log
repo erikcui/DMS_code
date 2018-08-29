@@ -1,0 +1,439 @@
+﻿  ann_model_main.cpp
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/arena.h(82): warning C4100: “size”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/message_lite.h(247): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/wire_format_lite_inl.h(865): warning C4267: “参数”: 从“size_t”转换到“google::protobuf::uint32”，可能丢失数据
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/allocator.h(93): warning C4100: “allocation_attr”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/allocator.h(158): warning C4100: “ptr”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/allocator.h(182): warning C4100: “ptr”: 未引用的形参
+d:\cplus_workspace\dms\eigen3.3.4\unsupported\eigen\cxx11\src/Tensor/Tensor.h(76): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+  d:\cplus_workspace\dms\eigen3.3.4\unsupported\eigen\cxx11\src/Tensor/TensorMap.h(31): note: 参见对正在编译的类 模板 实例化“Eigen::Tensor<T,1,1,int>”的引用
+          with
+          [
+              T=float
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/tensor_types.h(93): note: 参见对正在编译的类 模板 实例化“Eigen::TensorMap<Eigen::Tensor<T,1,1,int>,16,Eigen::MakePointer>”的引用
+          with
+          [
+              T=float
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/io/tokenizer.h(79): warning C4100: “message”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/io/tokenizer.h(78): warning C4100: “column”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/io/tokenizer.h(78): warning C4100: “line”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/compiler/importer.h(198): warning C4100: “message”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/compiler/importer.h(197): warning C4100: “column”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/compiler/importer.h(197): warning C4100: “line”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/compiler/importer.h(197): warning C4100: “filename”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/stubs/bytestream.h(276): warning C4100: “n”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/stubs/bytestream.h(276): warning C4100: “data”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(314): warning C4100: “result”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(314): warning C4100: “fname”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(319): warning C4100: “result”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(318): warning C4100: “fname”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(324): warning C4100: “result”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(323): warning C4100: “fname”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(330): warning C4100: “result”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(329): warning C4100: “fname”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(335): warning C4100: “fname”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(339): warning C4100: “result”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(339): warning C4100: “dir”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(343): warning C4100: “fname”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(347): warning C4100: “dirname”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(351): warning C4100: “dirname”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(355): warning C4100: “file_size”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(355): warning C4100: “fname”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(359): warning C4100: “target”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(359): warning C4100: “src”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(363): warning C4100: “stat”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/file_system.h(363): warning C4100: “fname”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/platform/default/mutex.h(39): warning C4100: “x”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/public/session.h(128): warning C4100: “graph”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/public/session.h(128): warning C4100: “run_options”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/public/session.h(133): warning C4100: “graph”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/public/session.h(133): warning C4100: “run_options”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/public/session.h(138): warning C4100: “run_options”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/node_def_util.h(119): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/lib/strings/str_util.h(104): warning C4100: “sp”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/op.h(260): warning C4100: “name”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/op.h(261): warning C4100: “spec”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/op.h(262): warning C4100: “spec”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/op.h(263): warning C4100: “spec”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/op.h(269): warning C4100: “text”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/op.h(271): warning C4100: “fn”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/lib/core/arena.h(46): warning C4267: “参数”: 从“size_t”转换到“const int”，可能丢失数据
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/graph/graph.h(457): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/graph/graph.h(466): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\cplus_workspace\dms\version2_1_bak\okbasetest\ann_model_loader.h(42): warning C4373: “tf_model::ANNModelLoader::predict_one”: 虚函数重写“tf_model::ModelLoaderBase::predict_one”，当参数只在 const/volatile 限定符上有差异时，早期版本的编译器未进行重写
+  d:\cplus_workspace\dms\version2_1_bak\okbasetest\model_loader_base.h(46): note: 参见“tf_model::ModelLoaderBase::predict_one”的声明
+d:\cplus_workspace\dms\version2_1_bak\okbasetest\ann_model_loader.h(44): warning C4373: “tf_model::ANNModelLoader::predict”: 虚函数重写“tf_model::ModelLoaderBase::predict”，当参数只在 const/volatile 限定符上有差异时，早期版本的编译器未进行重写
+  d:\cplus_workspace\dms\version2_1_bak\okbasetest\model_loader_base.h(44): note: 参见“tf_model::ModelLoaderBase::predict”的声明
+ann_model_main.cpp(111): warning C4100: “shape”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field_inl.h(217): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field_inl.h(215): note: 编译类 模板 成员函数“int google::protobuf::internal::MapField<std::string,tensorflow::AttrValue,google::protobuf::internal::WireFormatLite::TYPE_STRING,google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,0>::size(void) const”时
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\tensorflow/core/framework/attr_value.pb.h(1709): note: 参见对正在编译的函数 模板 实例化“int google::protobuf::internal::MapField<std::string,tensorflow::AttrValue,google::protobuf::internal::WireFormatLite::TYPE_STRING,google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,0>::size(void) const”的引用
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\tensorflow/core/framework/attr_value.pb.h(647): note: 参见对正在编译的类 模板 实例化“google::protobuf::internal::MapField<std::string,tensorflow::AttrValue,google::protobuf::internal::WireFormatLite::TYPE_STRING,google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,0>”的引用
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field_lite.h(152): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field_lite.h(151): note: 编译类 模板 成员函数“int google::protobuf::internal::MapFieldLite<Key,T,google::protobuf::internal::WireFormatLite::TYPE_STRING,google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,0>::size(void) const”时
+          with
+          [
+              Key=std::string,
+              T=tensorflow::AttrValue
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field.h(220): note: 参见对正在编译的类 模板 实例化“google::protobuf::internal::MapFieldLite<Key,T,google::protobuf::internal::WireFormatLite::TYPE_STRING,google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,0>”的引用
+          with
+          [
+              Key=std::string,
+              T=tensorflow::AttrValue
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(76): warning C4100: “default_enum_value”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(76): note: 编译类 模板 成员函数“void google::protobuf::internal::MapValueInitializer<false,T>::Initialize(Type &,int)”时
+          with
+          [
+              T=tensorflow::AttrValue,
+              Type=tensorflow::AttrValue
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1517): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::internal::MapValueInitializer<false,T>::Initialize(Type &,int)”的引用
+          with
+          [
+              T=tensorflow::AttrValue,
+              Type=tensorflow::AttrValue
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1517): note: 参见对正在编译的类 模板 实例化“google::protobuf::internal::MapValueInitializer<false,T>”的引用
+          with
+          [
+              T=tensorflow::AttrValue
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1511): note: 编译类 模板 成员函数“tensorflow::AttrValue &google::protobuf::Map<std::string,tensorflow::AttrValue>::operator [](const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”时
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field_inl.h(274): note: 参见对正在编译的函数 模板 实例化“tensorflow::AttrValue &google::protobuf::Map<std::string,tensorflow::AttrValue>::operator [](const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”的引用
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field.h(198): note: 参见对正在编译的类 模板 实例化“google::protobuf::Map<std::string,tensorflow::AttrValue>”的引用
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field.h(218): note: 参见对正在编译的类 模板 实例化“google::protobuf::internal::TypeDefinedMapFieldBase<Key,T>”的引用
+          with
+          [
+              Key=std::string,
+              T=tensorflow::AttrValue
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(76): warning C4100: “value”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(606): warning C4100: “n”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(606): note: 编译类 模板 成员函数“void google::protobuf::Map<std::string,tensorflow::AttrValue>::MapAllocator<X>::deallocate(std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<std::basic_string<char,std::char_traits<char>,std::allocator<char>>*>> *,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>::std::size_type)”时
+          with
+          [
+              X=std::set<std::string *,google::protobuf::Map<std::string,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<std::string,tensorflow::AttrValue>::MapAllocator<std::basic_string<char,std::char_traits<char>,std::allocator<char>> *>>,
+              Key=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1317): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::Map<std::string,tensorflow::AttrValue>::MapAllocator<X>::deallocate(std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<std::basic_string<char,std::char_traits<char>,std::allocator<char>>*>> *,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>::std::size_type)”的引用
+          with
+          [
+              X=std::set<std::string *,google::protobuf::Map<std::string,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<std::string,tensorflow::AttrValue>::MapAllocator<std::basic_string<char,std::char_traits<char>,std::allocator<char>> *>>,
+              Key=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1315): note: 参见对正在编译的类 模板 实例化“google::protobuf::Map<std::string,tensorflow::AttrValue>::MapAllocator<X>”的引用
+          with
+          [
+              X=std::set<std::string *,google::protobuf::Map<std::string,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<std::string,tensorflow::AttrValue>::MapAllocator<std::basic_string<char,std::char_traits<char>,std::allocator<char>> *>>
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1314): note: 编译类 模板 成员函数“void google::protobuf::Map<std::string,tensorflow::AttrValue>::InnerMap::DestroyTree(std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>> *)”时
+          with
+          [
+              Key=std::string,
+              X=std::string *
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1018): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::Map<std::string,tensorflow::AttrValue>::InnerMap::DestroyTree(std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>> *)”的引用
+          with
+          [
+              Key=std::string,
+              X=std::string *
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1391): note: 参见对正在编译的类 模板 实例化“google::protobuf::Map<std::string,tensorflow::AttrValue>::InnerMap”的引用
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow/core/framework/node_def_util.h(153): note: 参见对正在编译的类 模板 实例化“google::protobuf::Map<std::string,tensorflow::AttrValue>::const_iterator”的引用
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(637): warning C4100: “p”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(637): note: 编译类 模板 成员函数“void google::protobuf::Map<google::protobuf::int32,std::string>::MapAllocator<google::protobuf::Map<google::protobuf::int32,std::string>::KeyValuePair>::destroy(google::protobuf::Map<google::protobuf::int32,std::string>::KeyValuePair *)”时
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1310): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::Map<google::protobuf::int32,std::string>::MapAllocator<google::protobuf::Map<google::protobuf::int32,std::string>::KeyValuePair>::destroy(google::protobuf::Map<google::protobuf::int32,std::string>::KeyValuePair *)”的引用
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(765): note: 参见对正在编译的类 模板 实例化“google::protobuf::Map<google::protobuf::int32,std::string>::MapAllocator<google::protobuf::Map<google::protobuf::int32,std::string>::KeyValuePair>”的引用
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(595): warning C4100: “hint”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(595): note: 编译类 模板 成员函数“std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>> *google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>>>::allocate(google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>>>::std::size_type,const std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>> *)”时
+          with
+          [
+              Key=std::string,
+              X=std::string *
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1229): note: 参见对正在编译的函数 模板 实例化“std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>> *google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>>>::allocate(google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>>>::std::size_type,const std::set<Key *,google::protobuf::Map<Key,tensorflow::AttrValue>::InnerMap::KeyCompare,google::protobuf::Map<Key,tensorflow::AttrValue>::MapAllocator<X>> *)”的引用
+          with
+          [
+              Key=std::string,
+              X=std::string *
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(292): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(292): note: 编译类 模板 成员函数“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::ByteSize(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”时
+          with
+          [
+              Key=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(206): note: 参见对正在编译的函数 模板 实例化“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::ByteSize(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”的引用
+          with
+          [
+              Key=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry.h(285): note: 参见对正在编译的类 模板 实例化“google::protobuf::internal::MapEntryLite<std::string,tensorflow::AttrValue,google::protobuf::internal::WireFormatLite::TYPE_STRING,google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,0>”的引用
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field_inl.h(416): note: 参见对正在编译的类 模板 实例化“google::protobuf::internal::MapEntry<Key,T,google::protobuf::internal::WireFormatLite::TYPE_STRING,google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,0>”的引用
+          with
+          [
+              Key=std::string,
+              T=tensorflow::AttrValue
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field_inl.h(394): note: 编译类 模板 成员函数“void google::protobuf::internal::MapField<std::string,tensorflow::AttrValue,google::protobuf::internal::WireFormatLite::TYPE_STRING,google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,0>::SyncRepeatedFieldWithMapNoLock(void) const”时
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(336): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(336): note: 编译类 模板 成员函数“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::GetCachedSize(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”时
+          with
+          [
+              Key=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(230): note: 参见对正在编译的函数 模板 实例化“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::GetCachedSize(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”的引用
+          with
+          [
+              Key=std::string
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(641): warning C4100: “default_enum”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(641): note: 编译类 模板 成员函数“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::ClearMaybeByDefaultEnum(google::protobuf::internal::ArenaStringPtr *,google::protobuf::Arena *,int)”时
+          with
+          [
+              Key=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(278): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::ClearMaybeByDefaultEnum(google::protobuf::internal::ArenaStringPtr *,google::protobuf::Arena *,int)”的引用
+          with
+          [
+              Key=std::string
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(641): warning C4100: “value”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(641): note: 编译类 模板 成员函数“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::SpaceUsedInMapEntry(const google::protobuf::internal::ArenaStringPtr &)”时
+          with
+          [
+              Key=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(256): note: 参见对正在编译的函数 模板 实例化“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::SpaceUsedInMapEntry(const google::protobuf::internal::ArenaStringPtr &)”的引用
+          with
+          [
+              Key=std::string
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(641): warning C4100: “default_value”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(641): note: 编译类 模板 成员函数“const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::DefaultIfNotInitialized(const google::protobuf::internal::ArenaStringPtr &,const google::protobuf::internal::ArenaStringPtr &)”时
+          with
+          [
+              Key=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(140): note: 参见对正在编译的函数 模板 实例化“const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::DefaultIfNotInitialized(const google::protobuf::internal::ArenaStringPtr &,const google::protobuf::internal::ArenaStringPtr &)”的引用
+          with
+          [
+              Key=std::string
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(641): warning C4100: “arena”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(641): note: 编译类 模板 成员函数“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::Initialize(google::protobuf::internal::ArenaStringPtr *,google::protobuf::Arena *)”时
+          with
+          [
+              Key=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(496): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::Initialize(google::protobuf::internal::ArenaStringPtr *,google::protobuf::Arena *)”的引用
+          with
+          [
+              Key=std::string
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(641): warning C4100: “default_enum_value”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(641): note: 编译类 模板 成员函数“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::InitializeMaybeByDefaultEnum(google::protobuf::internal::ArenaStringPtr *,int,google::protobuf::Arena *)”时
+          with
+          [
+              Key=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(497): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_STRING,Key>::InitializeMaybeByDefaultEnum(google::protobuf::internal::ArenaStringPtr *,int,google::protobuf::Arena *)”的引用
+          with
+          [
+              Key=std::string
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(325): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(324): note: 编译类 模板 成员函数“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,T>::GetCachedSize(const tensorflow::AttrValue &)”时
+          with
+          [
+              T=tensorflow::AttrValue
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(233): note: 参见对正在编译的函数 模板 实例化“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,T>::GetCachedSize(const tensorflow::AttrValue &)”的引用
+          with
+          [
+              T=tensorflow::AttrValue
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(497): warning C4100: “arena”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(497): note: 编译类 模板 成员函数“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,T>::Merge(const Type &,Type **,google::protobuf::Arena *)”时
+          with
+          [
+              T=tensorflow::AttrValue,
+              Type=tensorflow::AttrValue
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(270): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,T>::Merge(const Type &,Type **,google::protobuf::Arena *)”的引用
+          with
+          [
+              T=tensorflow::AttrValue,
+              Type=tensorflow::AttrValue
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(492): warning C4100: “default_enum_value”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(492): note: 编译类 模板 成员函数“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,T>::ClearMaybeByDefaultEnum(Type **,google::protobuf::Arena *,int)”时
+          with
+          [
+              T=tensorflow::AttrValue,
+              Type=tensorflow::AttrValue
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(278): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,T>::ClearMaybeByDefaultEnum(Type **,google::protobuf::Arena *,int)”的引用
+          with
+          [
+              T=tensorflow::AttrValue,
+              Type=tensorflow::AttrValue
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(491): warning C4100: “arena”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(523): warning C4100: “arena”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(523): note: 编译类 模板 成员函数“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,T>::InitializeMaybeByDefaultEnum(Type **,int,google::protobuf::Arena *)”时
+          with
+          [
+              T=tensorflow::AttrValue,
+              Type=tensorflow::AttrValue
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(497): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_MESSAGE,T>::InitializeMaybeByDefaultEnum(Type **,int,google::protobuf::Arena *)”的引用
+          with
+          [
+              T=tensorflow::AttrValue,
+              Type=tensorflow::AttrValue
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(522): warning C4100: “default_enum_value”: 未引用的形参
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(296): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(296): note: 编译类 模板 成员函数“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::ByteSize(const int &)”时
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(207): note: 参见对正在编译的函数 模板 实例化“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::ByteSize(const int &)”的引用
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry.h(285): note: 参见对正在编译的类 模板 实例化“google::protobuf::internal::MapEntryLite<google::protobuf::int32,std::string,google::protobuf::internal::WireFormatLite::TYPE_INT32,google::protobuf::internal::WireFormatLite::TYPE_STRING,0>”的引用
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field_inl.h(416): note: 参见对正在编译的类 模板 实例化“google::protobuf::internal::MapEntry<Key,T,google::protobuf::internal::WireFormatLite::TYPE_INT32,google::protobuf::internal::WireFormatLite::TYPE_STRING,0>”的引用
+          with
+          [
+              Key=google::protobuf::int32,
+              T=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_field_inl.h(394): note: 编译类 模板 成员函数“void google::protobuf::internal::MapField<google::protobuf::int32,std::string,google::protobuf::internal::WireFormatLite::TYPE_INT32,google::protobuf::internal::WireFormatLite::TYPE_STRING,0>::SyncRepeatedFieldWithMapNoLock(void) const”时
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(340): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(340): note: 编译类 模板 成员函数“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::GetCachedSize(const int &)”时
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(233): note: 参见对正在编译的函数 模板 实例化“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::GetCachedSize(const int &)”的引用
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(725): warning C4100: “x”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(725): note: 编译类 模板 成员函数“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::DeleteNoArena(int &)”时
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(129): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::DeleteNoArena(int &)”的引用
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(725): warning C4100: “arena”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(725): note: 编译类 模板 成员函数“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::Merge(const int &,int *,google::protobuf::Arena *)”时
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(270): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::Merge(const int &,int *,google::protobuf::Arena *)”的引用
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(725): warning C4100: “value”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(725): note: 编译类 模板 成员函数“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::SpaceUsedInMapEntry(const int &)”时
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(257): note: 参见对正在编译的函数 模板 实例化“int google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::SpaceUsedInMapEntry(const int &)”的引用
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(725): warning C4100: “default_value”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_type_handler.h(725): note: 编译类 模板 成员函数“const int &google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::DefaultIfNotInitialized(const int &,const int &)”时
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map_entry_lite.h(140): note: 参见对正在编译的函数 模板 实例化“const int &google::protobuf::internal::MapTypeHandler<google::protobuf::internal::WireFormatLite::TYPE_INT32,Key>::DefaultIfNotInitialized(const int &,const int &)”的引用
+          with
+          [
+              Key=google::protobuf::int32
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/arena.h(808): warning C4100: “arena”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/arena.h(796): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::Arena::CreateInArenaStorageInternal<T>(T *,google::protobuf::Arena *,google::protobuf::internal::false_type)”的引用
+          with
+          [
+              T=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1668): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::Arena::CreateInArenaStorage<Key>(T *,google::protobuf::Arena *)”的引用
+          with
+          [
+              Key=std::string,
+              T=std::string
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1662): note: 编译类 模板 成员函数“google::protobuf::MapPair<Key,T> *google::protobuf::Map<Key,T>::CreateValueTypeInternal(const Key &)”时
+          with
+          [
+              Key=std::string,
+              T=google::protobuf::int32
+          ]
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/map.h(1515): note: 参见对正在编译的函数 模板 实例化“google::protobuf::MapPair<Key,T> *google::protobuf::Map<Key,T>::CreateValueTypeInternal(const Key &)”的引用
+          with
+          [
+              Key=std::string,
+              T=google::protobuf::int32
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/arena.h(814): warning C4100: “arena”: 未引用的形参
+  D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/arena.h(798): note: 参见对正在编译的函数 模板 实例化“void google::protobuf::Arena::RegisterDestructorInternal<T>(T *,google::protobuf::Arena *,google::protobuf::internal::true_type)”的引用
+          with
+          [
+              T=google::protobuf::int32
+          ]
+D:\cplus_workspace\DMS\tensorflow_r1_3\tensorflow\contrib\cmake\build\protobuf\src\protobuf\src\google/protobuf/arena.h(814): warning C4100: “ptr”: 未引用的形参
+  okBaseTest.vcxproj -> D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\release\okBaseTest.exe
+  okBaseTest.vcxproj -> release\okBaseTest.pdb (Full PDB)
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\commands.xml
+  系统找不到指定的路径。
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\sequences.xml
+  系统找不到指定的路径。
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\sliders.xml
+  系统找不到指定的路径。
+  已复制         0 个文件。
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\lib\windows_x64\CelexSensor.dll
+  系统找不到指定的路径。
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\lib\windows_x64\okFrontPanel.dll
+  系统找不到指定的路径。
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\lib\windows_x64\tensorflow.dll
+  系统找不到指定的路径。
+  已复制         0 个文件。
+  系统找不到指定的文件。
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\top - 副本.bit
+  系统找不到指定的路径。
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\top.bit
+  系统找不到指定的路径。
+  已复制         0 个文件。
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\commands.xml
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\sequences.xml
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\sliders.xml
+  已复制         3 个文件。
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\lib\windows_x64\CelexSensor.dll
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\lib\windows_x64\okFrontPanel.dll
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\lib\windows_x64\tensorflow.dll
+  已复制         3 个文件。
+  系统找不到指定的文件。
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\top - 副本.bit
+  D:\cplus_workspace\DMS\Version2_1_bak\okBaseTest\top.bit
+  已复制         2 个文件。

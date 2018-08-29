@@ -1,0 +1,55 @@
+﻿  Moc'ing doubleslider.h...
+  Moc'ing hhsliderwidget.h...
+  Moc'ing mainwindow.h...
+  Moc'ing hhdetectthread.h...
+  Uic'ing mainwindow.ui...
+  Rcc'ing images.qrc...
+  ann_model_loader.cpp
+ann_model_loader.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\cplus_workspace\dms\version2_1_bak\okbasetest\model_loader_base.h(7): fatal error C1083: 无法打开包括文件: “tensorflow/core/public/session.h”: No such file or directory
+  ann_model_main.cpp
+ann_model_main.cpp(13): fatal error C1083: 无法打开包括文件: “tensorflow/core/public/session.h”: No such file or directory
+  dataqueue.cpp
+  moc_doubleslider.cpp
+  moc_hhdetectthread.cpp
+  moc_hhsliderwidget.cpp
+  moc_mainwindow.cpp
+  doubleslider.cpp
+doubleslider.cpp(216): warning C4100: “event”: 未引用的形参
+  hhdetectthread.cpp
+hhdetectthread.cpp(71): warning C4100: “input”: 未引用的形参
+hhdetectthread.cpp(81): warning C4100: “input”: 未引用的形参
+hhdetectthread.cpp(282): warning C4189: “callRatio”: 局部变量已初始化但不引用
+hhdetectthread.cpp(330): warning C4189: “callRatio”: 局部变量已初始化但不引用
+hhdetectthread.cpp(454): warning C4100: “MultiColorPic”: 未引用的形参
+hhdetectthread.cpp(454): warning C4100: “MultiImg”: 未引用的形参
+hhdetectthread.cpp(454): warning C4100: “EventImg”: 未引用的形参
+hhdetectthread.cpp(677): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”
+hhdetectthread.cpp(669): warning C4189: “count”: 局部变量已初始化但不引用
+  hhsliderwidget.cpp
+hhsliderwidget.cpp(6): warning C4100: “width”: 未引用的形参
+  j_Alig_1.cpp
+  j_npd_d.cpp
+j_npd_d.cpp(22): warning C4305: “=”: 从“double”到“float”截断
+j_npd_d.cpp(107): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+j_npd_d.cpp(108): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+j_npd_d.cpp(109): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+j_npd_d.cpp(110): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+j_npd_d.cpp(201): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+j_npd_d.cpp(239): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+j_npd_d.cpp(261): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+j_npd_d.cpp(262): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+j_npd_d.cpp(450): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+j_npd_d.cpp(451): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+j_npd_d.cpp(453): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+j_npd_d.cpp(454): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+j_npd_d.cpp(609): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+j_npd_d.cpp(610): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+j_npd_d.cpp(612): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+j_npd_d.cpp(613): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+  mainwindow.cpp
+mainwindow.cpp(1415): warning C4018: “>”: 有符号/无符号不匹配
+mainwindow.cpp(1436): warning C4018: “>=”: 有符号/无符号不匹配
+mainwindow.cpp(1602): warning C4100: “event”: 未引用的形参
+  正在生成代码...

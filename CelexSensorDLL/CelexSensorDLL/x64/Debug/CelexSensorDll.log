@@ -1,0 +1,136 @@
+﻿  xthread.cpp
+  xbase.cpp
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\xbase.cpp(32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  hhxmlreader.cpp
+  hhwireincommand.cpp
+  hhsequencemgr.cpp
+  hhdelaycommand.cpp
+  hhcommand.cpp
+  frontpanel.cpp
+  fpgadatareader.cpp
+  fpgadataprocessor.cpp
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(298): warning C4251: “CelexSensorDLL::m_mapSliderNameValue”: class“std::map<std::string,uint32_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+          with
+          [
+              _Kty=std::string,
+              _Ty=uint32_t
+          ]
+  f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(298): note: 参见“std::map<std::string,uint32_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=std::string,
+              _Ty=uint32_t
+          ]
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(299): warning C4251: “CelexSensorDLL::m_vecAdvancedNames”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(299): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(300): warning C4251: “CelexSensorDLL::m_vecSensorControlList”: class“std::vector<CelexSensorDLL::ControlSliderInfo,std::allocator<_Ty>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+          with
+          [
+              _Ty=CelexSensorDLL::ControlSliderInfo
+          ]
+  f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(270): note: 参见“std::vector<CelexSensorDLL::ControlSliderInfo,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=CelexSensorDLL::ControlSliderInfo
+          ]
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(301): warning C4251: “CelexSensorDLL::m_ifstreamPlayback”: class“std::basic_ifstream<char,std::char_traits<char>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+  e:\microsoftvisualstudio14.0\vc\include\iosfwd(690): note: 参见“std::basic_ifstream<char,std::char_traits<char>>”的声明
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(302): warning C4251: “CelexSensorDLL::m_ofstreamRecord”: class“std::basic_ofstream<char,std::char_traits<char>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+  e:\microsoftvisualstudio14.0\vc\include\iosfwd(691): note: 参见“std::basic_ofstream<char,std::char_traits<char>>”的声明
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\fpgadataprocessor.cpp(684): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\fpgadataprocessor.cpp(704): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  dataqueue.cpp
+  dataprocessthread.cpp
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(298): warning C4251: “CelexSensorDLL::m_mapSliderNameValue”: class“std::map<std::string,uint32_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+          with
+          [
+              _Kty=std::string,
+              _Ty=uint32_t
+          ]
+  f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(298): note: 参见“std::map<std::string,uint32_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=std::string,
+              _Ty=uint32_t
+          ]
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(299): warning C4251: “CelexSensorDLL::m_vecAdvancedNames”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(299): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(300): warning C4251: “CelexSensorDLL::m_vecSensorControlList”: class“std::vector<CelexSensorDLL::ControlSliderInfo,std::allocator<_Ty>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+          with
+          [
+              _Ty=CelexSensorDLL::ControlSliderInfo
+          ]
+  f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(270): note: 参见“std::vector<CelexSensorDLL::ControlSliderInfo,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=CelexSensorDLL::ControlSliderInfo
+          ]
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(301): warning C4251: “CelexSensorDLL::m_ifstreamPlayback”: class“std::basic_ifstream<char,std::char_traits<char>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+  e:\microsoftvisualstudio14.0\vc\include\iosfwd(690): note: 参见“std::basic_ifstream<char,std::char_traits<char>>”的声明
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(302): warning C4251: “CelexSensorDLL::m_ofstreamRecord”: class“std::basic_ofstream<char,std::char_traits<char>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+  e:\microsoftvisualstudio14.0\vc\include\iosfwd(691): note: 参见“std::basic_ofstream<char,std::char_traits<char>>”的声明
+  celexsensordll.cpp
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(298): warning C4251: “CelexSensorDLL::m_mapSliderNameValue”: class“std::map<std::string,uint32_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+          with
+          [
+              _Kty=std::string,
+              _Ty=uint32_t
+          ]
+  f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(298): note: 参见“std::map<std::string,uint32_t,std::less<_Kty>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              _Kty=std::string,
+              _Ty=uint32_t
+          ]
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(299): warning C4251: “CelexSensorDLL::m_vecAdvancedNames”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(299): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(300): warning C4251: “CelexSensorDLL::m_vecSensorControlList”: class“std::vector<CelexSensorDLL::ControlSliderInfo,std::allocator<_Ty>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+          with
+          [
+              _Ty=CelexSensorDLL::ControlSliderInfo
+          ]
+  f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(270): note: 参见“std::vector<CelexSensorDLL::ControlSliderInfo,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=CelexSensorDLL::ControlSliderInfo
+          ]
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(301): warning C4251: “CelexSensorDLL::m_ifstreamPlayback”: class“std::basic_ifstream<char,std::char_traits<char>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+  e:\microsoftvisualstudio14.0\vc\include\iosfwd(690): note: 参见“std::basic_ifstream<char,std::char_traits<char>>”的声明
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.h(302): warning C4251: “CelexSensorDLL::m_ofstreamRecord”: class“std::basic_ofstream<char,std::char_traits<char>>”需要有 dll 接口由 class“CelexSensorDLL”的客户端使用
+  e:\microsoftvisualstudio14.0\vc\include\iosfwd(691): note: 参见“std::basic_ofstream<char,std::char_traits<char>>”的声明
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.cpp(544): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  正在生成代码...
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\celexsensordll.cpp(269): warning C4715: “CelexSensorDLL::getEventPicBuffer”: 不是所有的控件路径都返回值
+f:\svn\huxiaoqin\release\version_2_1\celexsensordll\celexsensordll\xbase.cpp(59): warning C4700: 使用了未初始化的局部变量“t”
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(F:\svn\huxiaoqin\Release\Version_2_1\CelexSensorDLL\x64\Debug\CelexSensor.dll) does not match the Linker's OutputFile property value (F:\svn\huxiaoqin\Release\Version_2_1\okBaseTest\lib\windows_x64\CelexSensor.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+    正在创建库 ../../okBaseTest/lib/windows_x64/CelexSensor.lib 和对象 ../../okBaseTest/lib/windows_x64/CelexSensor.exp
+  CelexSensorDll.vcxproj -> F:\svn\huxiaoqin\Release\Version_2_1\CelexSensorDLL\x64\Debug\CelexSensor.dll
+  CelexSensorDll.vcxproj -> F:\svn\huxiaoqin\Release\Version_2_1\CelexSensorDLL\x64\Debug\CelexSensor.pdb (Full PDB)
